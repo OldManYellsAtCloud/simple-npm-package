@@ -1,5 +1,5 @@
 {
-  "name": "@clarkio/simple-npm-package",
+  "name": "@clarkio/simple-npm-packagesd",
   "version": "0.0.2",
   "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
   "main": "index.js",
